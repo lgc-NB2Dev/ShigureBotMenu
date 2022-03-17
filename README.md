@@ -31,9 +31,9 @@
 - 介绍
   - 获取 Minecraft JE/BE 服务器状态
 - 指令
-  - !motd <服务器 IP>[:端口]
-  - !motdfull <服务器 IP>[:端口]
-  - !motdpe <服务器 IP>[:端口]
+  - `!motd <服务器 IP>[:端口]`
+  - `!motdfull <服务器 IP>[:端口]`
+  - `!motdpe <服务器 IP>[:端口]`
 
 ### 原神 UID 查询（GenshinUID）
 
