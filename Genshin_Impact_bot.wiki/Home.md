@@ -2,12 +2,12 @@
 
 ### Wiki 编辑进度:
 
-- [命令列表](https://github.com/H-K-Y/Genshin_Impact_bot/wiki/命令) ✔
+- [命令列表](命令.md) ✔
 - 安装指南 ⭕
 
     |版本|Windows|Linux|
     |:-|:-:|:-:|
-    |[Hoshino](https://github.com/H-K-Y/Genshin_Impact_bot/wiki/安装（Hoshino）)|⭕|⭕|
-    |[Nonebot2](https://github.com/H-K-Y/Genshin_Impact_bot/wiki/安装（Nonebot2）)|⭕|✔|
-- [常见问题](https://github.com/H-K-Y/Genshin_Impact_bot/wiki/常见问题) ✔
-- [效果演示](https://github.com/H-K-Y/Genshin_Impact_bot/wiki/效果演示) ✔
+    |[Hoshino](安装（Hoshino）.md)|⭕|⭕|
+    |[Nonebot2](安装（Nonebot2）.md)|⭕|✔|
+- [常见问题](常见问题.md) ✔
+- [效果演示](效果演示.md) ✔
