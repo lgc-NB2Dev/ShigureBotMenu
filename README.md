@@ -39,14 +39,14 @@
 
 - 介绍
   - 一个原神 UID 查询/原神 Wiki/米游社签到/树脂提醒插件
-- [Wiki](GenshinUID.wiki/Home.md)
+- [Wiki](GenshinUID_wiki/Home.md)
 - [源 Repo](https://github.com/KimigaiiWuyi/GenshinUID/tree/nonebot2-beta1)
 
 ### 原神 Bot（Genshin_Impact_Bot）
 
 - 介绍
   - 一个原神娱乐及信息查询插件，包含原神抽卡，丘丘语翻译，找资源点等功能
-- [Wiki](Genshin_Impact_bot.wiki/Home.md)
+- [Wiki](Genshin_Impact_bot_wiki/Home.md)
 - [源 Repo](https://github.com/H-K-Y/Genshin_Impact_bot/tree/nonebot2)
 
 ### 肝原神去了，明天再写
