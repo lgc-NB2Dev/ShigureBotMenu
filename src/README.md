@@ -36,7 +36,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
   - 查询玩家 BlackBE 云黑记录
   - 当已录入云黑玩家在群内发言时提示
 - 指令
-  - `查云黑<XboxID/QQ号/@某人/XUID>`
+  - `查云黑 <XboxID/QQ号/@某人/XUID>`
 
 ### MC 服务器信息查询
 
@@ -156,7 +156,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 使用<https://glot.io/>的接口在线运行代码
-- [README](quotes/nonebot_plugin_code/README.md)
+- [README](quotes/nonebot_plugin_code/README.md#指令💻)
 - [源 Repo](https://github.com/yzyyz1387/nonebot_plugin_code)
 
 ### 表情包制作
@@ -170,7 +170,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 一个棋类游戏插件，目前支持五子棋/围棋/黑白棋
-- [README](quotes/nonebot-plugin-chess/README.md)
+- [README](quotes/nonebot-plugin-chess/README.md#使用)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-chess)
 
 ### 原神抽卡记录分析
