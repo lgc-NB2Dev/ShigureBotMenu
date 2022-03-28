@@ -17,4 +17,6 @@
 .footer {
   text-align: right;
   font-style: italic;
+  font-size: 12px;
+  color: gray;
 }
