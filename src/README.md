@@ -85,7 +85,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 - 指令
   - `@Bot 搜图`/`@Bot search`（@Bot 可以替换为 Bot 昵称，私聊无需@）  
     例：`@Shigure 2nd~ 搜图` `shigure 搜图`  
-    当询问图片查询源时输入不正确默认使用 sausenao（nao）
+    当询问图片查询源时输入不正确默认使用 saucenao（nao）
   - `上一张图是什么`/`上一张`/`这是什么`（使用 saucenao 搜索群友最新发的一张图）
 - [源 Repo](https://github.com/synodriver/nonebot_plugin_picsearcher)
 
@@ -99,7 +99,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 ### 网易云无损音乐下载
 
-> 网易云黑胶为自费，2022 年 6 月 17 日到期  
+> 网易云黑胶为自费，2022 年 7 月 1 日到期  
 > 球球给口饭吃嘛 QAQ
 
 - 介绍
