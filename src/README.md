@@ -5,8 +5,6 @@
 Bot 主人：3076823485  
 吹水群：[1105946125](https://jq.qq.com/?_wv=1027&k=Z3n1MpEp)
 
-!> 累了，不想写代码了，维护不动了，没有动力了……虽然Bot以后还是依然开放给大家用，但Bot就在这里永久停更了，非常抱歉
-
 ~~**Bot 最近风控中，在群聊中某些功能由于无法发送消息将不可用**~~
 
 当你使用下面由`nonebot2`插件提供的指令时不需要带前缀（如 `#`、`/` 等）  
@@ -106,7 +104,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 网易云歌曲分享到群内后回复机器人即可解析上传到群文件
-- [README](quotes/nonebot_tools/nonebot_tools/nonebot-plugin-ncm/README.md#使用说明)
+- [README](quotes/nonebot-plugin-ncm/README.md#使用说明)
 - [源 Repo](https://github.com/kitUIN/nonebot_tools/tree/master/nonebot_tools/nonebot-plugin-ncm)
 
 ### B 站链接解析
