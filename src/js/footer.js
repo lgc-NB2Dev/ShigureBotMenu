@@ -1,22 +1,15 @@
 (() => {
-  let footer = [
-    '',
-    '<hr/>',
-    '<div class="footer">',
-    '',
-    '文档到底辣☆ﾟ･*:.｡.☆†_(ﾟ▽ﾟ*)β☆.｡.:*･ﾟ☆  ',
-    '如果文档出现问题（错别字/介绍有误等）请及时联系我勘误～  ',
-    '也可以在底下评论区评评论～我看到会回复哒～  ',
-    '上次修改: {docsify-updated}',
-    '',
-    '</div>',
-  ].join('\n');
+  const footer = `
+文档到底辣 .˚‧º·(´ฅωฅ｀)‧º·˚.  
+如果文档出错请及时勘误  
+直接往右上角Github提Issue或PR就行啦～  
+上次修改: {docsify-updated}`.trimStart();
 
-  plugin = function (hook) {
+  function install(hook, vm) {
     hook.beforeEach(function (md) {
-      return md + footer;
+      return `${md}\n<hr /><div class="footer">\n\n${footer}\n\n</div>`;
     });
-  };
+  }
 
-  window.$docsify.plugins = [plugin].concat(window.$docsify.plugins || []);
+  window.$docsify.plugins = [].concat(install, window.$docsify.plugins);
 })();
