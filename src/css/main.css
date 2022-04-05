@@ -45,6 +45,5 @@ html {
 }
 @font-face {
   font-family: 'XiaolaiSC';
-  src: url('https://ghproxy.com/https://raw.githubusercontent.com/lxgw/kose-font/master/TTF%20(Simplified%20Chinese)/XiaolaiSC-Regular.ttf')
-    format('truetype');
+  src: url('/font/XiaolaiMonoSC-Regular.ttf') format('truetype');
 }

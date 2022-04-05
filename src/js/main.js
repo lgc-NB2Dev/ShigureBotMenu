@@ -256,7 +256,7 @@
       enableQQ: true,
       requiredFields: ['nick'],
       emojiCDN:
-        'https://cdn.jsdelivr.net/gh/getActivity/EmojiPackage@master/',
+        'https://gitee.com/lgc2333/EmojiPackage/raw/master/',
       emojiMaps: emojis,
     },
   };
