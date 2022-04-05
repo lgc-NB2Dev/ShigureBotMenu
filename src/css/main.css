@@ -34,9 +34,10 @@
 }
 .v[data-class='v'] .vinput,
 .v[data-class='v'] .veditor,
+.v[data-class='v'] .status-bar,
+.v[data-class='v'] .vbtn,
 .v[data-class='v'] p,
-.v[data-class='v'] pre code,
-.v[data-class='v'] .status-bar {
+.v[data-class='v'] pre code {
   font-family: XiaolaiSC !important;
   color: var(--textColor) !important;
 }
@@ -46,7 +47,8 @@
 html {
   --siteFont: XiaolaiSC !important;
   --codeFontFamily: XiaolaiSC !important;
-  --coverBackground: url('//shigure.lgc2333.top/imgs/95838919_p0.png') center center / cover !important;
+  --coverBackground: url('//shigure.lgc2333.top/imgs/95838919_p0.png') center
+    center / cover !important;
 }
 @font-face {
   font-family: 'XiaolaiSC';
