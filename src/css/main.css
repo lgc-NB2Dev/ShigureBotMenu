@@ -5,11 +5,9 @@
   border-radius: 50%;
   border-color: #df9e89;
 }
-.footer {
-  text-align: right;
-  font-style: italic;
-  font-size: 12px;
-  color: gray;
+.cover-main {
+  /*color: #34495e !important;*/
+  text-shadow: 0px 0px 6px #999;
 }
 .cover {
   --coverBackground: url('https://i.pixiv.re/img-original/img/2022/01/29/00/00/29/95838919_p0.png')
@@ -17,5 +15,36 @@
 }
 .mask {
   opacity: 0.6 !important;
-  background-color: #999 !important;
+  background-color: var(--background) !important;
+}
+.footer {
+  text-align: right;
+  font-style: italic;
+  font-size: 12px;
+  color: gray;
+}
+.vemojis i {
+  width: 72px !important;
+}
+.v[data-class='v'] .vemoji,
+.v[data-class='v'] .emoji {
+  height: 100% !important;
+  width: 100% !important;
+  max-height: 144px !important;
+  max-width: 144px !important;
+}
+.vinput {
+  font-family: XiaolaiSC !important;
+}
+.markdown-section pre > code {
+  font-family: 'Courier New', XiaolaiSC;
+}
+html {
+  --siteFont: XiaolaiSC !important;
+  --codeFontFamily: XiaolaiSC !important;
+}
+@font-face {
+  font-family: 'XiaolaiSC';
+  src: url('https://ghproxy.com/https://raw.githubusercontent.com/lxgw/kose-font/master/TTF%20(Simplified%20Chinese)/XiaolaiSC-Regular.ttf')
+    format('truetype');
 }
