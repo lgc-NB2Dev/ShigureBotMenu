@@ -114,6 +114,12 @@
 .aplayer .aplayer-lrc p.aplayer-lrc-current {
   text-shadow: -1px -1px 0px var(--textColor);
 }
+@media screen and (max-width: 768px) {
+  .aplayer.aplayer-fixed,
+  .aplayer.aplayer-fixed .aplayer-body {
+    bottom: 40px;
+  }
+}
 
 /* global */
 html {
