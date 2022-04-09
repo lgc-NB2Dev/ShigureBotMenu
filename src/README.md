@@ -17,7 +17,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 <details>
   <summary>赞助二维码</summary>
 
-![讨饭](imgs/sponsor.png)
+![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
 
 </details>
 
