@@ -204,6 +204,14 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 - [README](quotes/nonebot-plugin-color/README.md)
 - [源 Repo](https://github.com/monsterxcn/nonebot-plugin-color)
 
+### Emoji 合成器
+
+- 介绍
+  - 将两个 Emoji 合成到一起
+- 示例
+  ![示例](https://s2.loli.net/2022/01/23/EyoA1BHe9YpJZUD.png)
+- [源 Repo](https://github.com/MeetWq/nonebot-plugin-emojimix)
+
 ## 来自 GitHub 的 nonebot2 插件
 
 ### 原神 UID 查询
