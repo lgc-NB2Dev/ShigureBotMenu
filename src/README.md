@@ -209,8 +209,15 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 - 介绍
   - 将两个 Emoji 合成到一起
 - 示例
-  ![示例](https://s2.loli.net/2022/01/23/EyoA1BHe9YpJZUD.png)
+  - ![示例](https://s2.loli.net/2022/01/23/EyoA1BHe9YpJZUD.png)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-emojimix)
+
+### 扫雷
+
+- 介绍
+  - 一个扫雷小游戏插件
+- [README](quotes/nonebot-plugin-minesweeper/README.md)
+- [源 Repo](https://github.com/MeetWq/nonebot-plugin-minesweeper)
 
 ## 来自 GitHub 的 nonebot2 插件
 
