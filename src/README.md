@@ -2,37 +2,57 @@
 
 # 写在前面
 
-Bot 主人：3076823485  
-吹水群：[1105946125](https://jq.qq.com/?_wv=1027&k=Z3n1MpEp)
+## 前言
 
 感谢[Wutzu](http://berthua.top/)大佬提供的网站服务器～
 
-~~**Bot 最近风控中，在群聊中某些功能由于无法发送消息将不可用**~~
+目前 Bot 的好友与进群请求由我手动同意，还请各位稍安勿躁，耐心等待我同意（我如果在线应该是秒同意的）
 
-当你使用下面由`nonebot2`插件提供的指令时不需要带前缀（如 `#`、`/` 等）  
+当你使用下面由`nonebot2`插件提供的指令时不需要带前缀（如 `#`、`/` 等）
+
 目前饼干正在努力将所有功能迁移到`nonebot2`上！  
-Bot 正处于过渡期，如果有些功能无法使用还请反馈一下  
-联系我的方式在 Bot 的个性签名！
+Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
-<details>
-  <summary>赞助二维码</summary>
+## 我可以把 Bot 拉进自己的群吗？
 
-![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
+当然可以！我确实是想让我的 Bot 到更多群里去玩的～  
+如果想拉到群里的话，加 Bot 好友然后直接把她拉到群里面就行了～
 
-</details>
+## 联系主人
+
+QQ：3076823485  
+吹水群：[1105946125](https://jq.qq.com/?_wv=1027&k=Z3n1MpEp)  
+邮箱：<lgc2333@126.com>
+
+## 赞助
 
 可以给卑微的饼干一口饭吃吗 球球了 QAQ
+
+- [爱发电](https://afdian.net/@lgc2333)
+- <details>
+    <summary>赞助二维码（点击展开）</summary>
+
+    ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
+
+  </details>
+
+## 最近更新内容
+
+- 2022.4.21
+  - 更新插件 [nonebot-plugin-petpet（头像表情包）](#头像表情包)
+  - 添加插件 [socialify（Github 仓库简介图生成）](#github-仓库简介图生成)
 
 # 功能列表
 
 ## 自己写的 nonebot2 插件
 
+> [!TIP]
+> 这些插件我已经开源，[仓库地址](https://github.com/lgc2333/ShigureBot)
+
 ### BlackBE 云黑记录查询
 
 > [!TIP]
-> [BlackBE 官网](https://blackbe.xyz/)  
-> 站长：NyanCatda QQ：1012140043
->
+> 站长：NyanCatda QQ：1012140043 [项目官网](https://blackbe.xyz/)  
 > 如果喜欢 BlackBE 就去[支持一下](https://afdian.net/@BlackBE)他们吧～
 
 - 介绍
@@ -69,13 +89,29 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
     - `--delay`/`-d` 【可选】截图延时（单位：秒），默认值：5
     - `--width`/`-wd` 【可选】页面宽度，默认值：1280
     - `--height`/`-hi` 【可选】页面高度，默认值：720
-  - 示例
-    - `网页截图 baidu.com`  
-      页面加载完成 5 秒后截取一张 1280\*720 的百度页面
-    - `网页截图 -d 0 baidu.com`  
-      页面加载完成后立即截取一张 1280\*720 的百度页面
-    - `网页截图 -d 0 -wd 800 -hi 600 baidu.com`  
-      页面加载完成后立即截取一张 800\*600 的百度页面
+- 示例
+  - `网页截图 baidu.com`  
+    页面加载完成 5 秒后截取一张 1280\*720 的百度页面
+  - `网页截图 -d 0 baidu.com`  
+    页面加载完成后立即截取一张 1280\*720 的百度页面
+  - `网页截图 -d 0 -wd 800 -hi 600 baidu.com`  
+    页面加载完成后立即截取一张 800\*600 的百度页面
+
+### Github 仓库简介图生成
+
+- 介绍
+  - 使用[socialify](https://github.com/wei/socialify)生成一张 Github 仓库简介图
+- 用法
+  - 直接发送 Github 仓库地址或`user/repo`格式文本
+  - 指令`socialify`（使用`socialify -h`查看指令帮助）
+  - 回复一张图片可以自定义简介图显示的 logo
+- 示例
+  - <details>
+      <summary>示例图（点击展开）</summary>
+
+      ![示例](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/socialify/example.png)
+
+    </details>
 
 ## 来自 nonebot2 商店的插件
 
@@ -124,7 +160,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 网易云歌曲分享到群内后回复机器人即可解析上传到群文件
-- [README](quotes/nonebot-plugin-ncm/README.md#使用说明)
+- [README（文档）](quotes/nonebot-plugin-ncm/README.md#使用说明)
 - [源 Repo](https://github.com/kitUIN/nonebot_tools/tree/master/nonebot_tools/nonebot-plugin-ncm)
 
 ### B 站链接解析
@@ -171,28 +207,28 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 制作头像相关的表情包
-- [README](quotes/nonebot-plugin-petpet/README.md#使用)
+- [README（文档）](quotes/nonebot-plugin-petpet/README.md#使用)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-petpet)
 
 ### 在线运行代码
 
 - 介绍
   - 使用<https://glot.io/>的接口在线运行代码
-- [README](quotes/nonebot_plugin_code/README.md#指令💻)
+- [README（文档）](quotes/nonebot_plugin_code/README.md#指令💻)
 - [源 Repo](https://github.com/yzyyz1387/nonebot_plugin_code)
 
 ### 表情包制作
 
 - 介绍
   - 制作有趣的梗图
-- [README](quotes/nonebot-plugin-memes/README.md)
+- [README（文档）](quotes/nonebot-plugin-memes/README.md)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-memes)
 
 ### 棋类游戏
 
 - 介绍
   - 一个棋类游戏插件，目前支持五子棋/围棋/黑白棋
-- [README](quotes/nonebot-plugin-chess/README.md#使用)
+- [README（文档）](quotes/nonebot-plugin-chess/README.md#使用)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-chess)
 
 ### 原神抽卡记录分析
@@ -202,7 +238,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 用于统计及导出原神祈愿记录的插件
-- [README](quotes/nonebot-plugin-gachalogs/README.md)
+- [README（文档）](quotes/nonebot-plugin-gachalogs/README.md)
 - [源 Repo](https://github.com/monsterxcn/nonebot-plugin-gachalogs)
 
 ### 颜色图片 ~~（色图）~~ 生成
@@ -210,7 +246,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 - 介绍
   - 用于生成指定色彩图片的插件  
     ~~_哎哟这个色啊，好色！_~~
-- [README](quotes/nonebot-plugin-color/README.md)
+- [README（文档）](quotes/nonebot-plugin-color/README.md)
 - [源 Repo](https://github.com/monsterxcn/nonebot-plugin-color)
 
 ### Emoji 合成器
@@ -225,7 +261,7 @@ Bot 正处于过渡期，如果有些功能无法使用还请反馈一下
 
 - 介绍
   - 一个扫雷小游戏插件
-- [README](quotes/nonebot-plugin-minesweeper/README.md)
+- [README（文档）](quotes/nonebot-plugin-minesweeper/README.md)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-minesweeper)
 
 ## 来自 GitHub 的 nonebot2 插件
