@@ -4,10 +4,12 @@
 
 ### 使用
 
+**以下命令需要加[命令前缀](https://v2.nonebot.dev/docs/api/config#Config-command_start) (默认为`/`)，可自行设置为空**
+
 发送“头像表情包”显示下图的列表：
 
 <div align="left">
-  <img src="https://s2.loli.net/2022/03/18/s8ZuphBfxOtzKHV.jpg" width="400" />
+  <img src="https://s2.loli.net/2022/04/20/UB4w28Cedrz7mKp.jpg" width="400" />
 </div>
 
 
@@ -55,7 +57,7 @@
 | 墙纸 | <img src="https://s2.loli.net/2022/03/10/tQRXzLamGyWi24s.jpg" width="200" /> | 支持gif |
 | 国旗 | <img src="https://s2.loli.net/2022/03/10/p7nwCvgsU3LxBDI.jpg" width="200" /> |  |
 | 交个朋友 | <img src="https://s2.loli.net/2022/03/10/SnmkNrjKuFeZvbA.jpg" width="200" /> | 名字为qq昵称，可指定名字 |
-| 继续干活 | <img src="https://s2.loli.net/2022/03/12/DnZdAo9IL7q3lXW.jpg" width="200" > |  |
+| 继续干活 | <img src="https://s2.loli.net/2022/04/20/LIak2BsJ9Dd5O7l.jpg" width="200" > |  |
 | 完美<br>完美的 | <img src="https://s2.loli.net/2022/03/10/lUS1nmPAKIYtwih.jpg" width="200" /> |  |
 | 关注 | <img src="https://s2.loli.net/2022/03/12/FlpjRWCte72ozqs.jpg" width="200" > | 名字为qq昵称，可指定名字 |
 | 我朋友说<br>我有个朋友说 | <img src="https://s2.loli.net/2022/03/12/cBk4aG3RwIoYbMF.jpg" width="200" > | 名字为qq昵称，可指定名字<br>如：我朋友说 meetwq 来份涩图 自己 |
@@ -72,3 +74,15 @@
 | 采访 | <img src="https://s2.loli.net/2022/03/15/AYpkWEc2BrXhKeU.jpg" width="200" > | 可指定描述 |
 | 打拳 | <img src="https://s2.loli.net/2022/03/18/heA9fCPMQWXBxTn.gif" width="200" > |  |
 | 群青 | <img src="https://s2.loli.net/2022/03/18/drwXx3yK14IMVCf.jpg" width="200" > |  |
+| 捣 | <img src="https://s2.loli.net/2022/03/30/M9xUehlV64OpGoY.gif" width="200" > |  |
+| 捶 | <img src="https://s2.loli.net/2022/03/30/ElnARr7ohVXjtJx.gif" width="200" > |  |
+| 需要<br>你可能需要 | <img src="https://s2.loli.net/2022/03/30/VBDG74QeZUYcunh.jpg" width="200" > |  |
+| 捂脸 | <img src="https://s2.loli.net/2022/03/30/NLy4Eb6CHKP3Svo.jpg" width="200" > |  |
+| 敲 | <img src="https://s2.loli.net/2022/04/14/uHP8z3bDMtGdOCk.gif" width="200" > |  |
+| 垃圾<br>垃圾桶 | <img src="https://s2.loli.net/2022/04/14/i1ok2NUYaMfKezT.gif" width="200" > |  |
+| 为什么@我<br>为什么at我 | <img src="https://s2.loli.net/2022/04/14/qQYydurABV7TMbN.jpg" width="200" > |  |
+| 像样的亲亲 | <img src="https://s2.loli.net/2022/04/14/1KvLjb2uRYQ9mCI.jpg" width="200" > |  |
+| 啾啾 | <img src="https://s2.loli.net/2022/04/20/v3YrbLMnND8BoPK.gif" width="200" > |  |
+| 吸<br>嗦 | <img src="https://s2.loli.net/2022/04/20/LlFNscXC1IQrkgE.gif" width="200" > |  |
+| 锤 | <img src="https://s2.loli.net/2022/04/20/ajXFm95tHRM6CzZ.gif" width="200" > |  |
+| 紧贴<br>紧紧贴着 | <img src="https://s2.loli.net/2022/04/20/FiBwc3ZxvVLObGP.gif" width="200" > |  |
