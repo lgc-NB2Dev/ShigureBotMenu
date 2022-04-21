@@ -6,6 +6,8 @@
 
 感谢[Wutzu](http://berthua.top/)大佬提供的网站服务器～
 
+Bot 账号：2826415576（Shigure 2nd~）
+
 目前 Bot 的好友与进群请求由我手动同意，还请各位稍安勿躁，耐心等待我同意（我如果在线应该是秒同意的）
 
 当你使用下面由`nonebot2`插件提供的指令时不需要带前缀（如 `#`、`/` 等）
@@ -32,21 +34,26 @@ QQ：3076823485
 - <details>
     <summary>赞助二维码（点击展开）</summary>
 
-    ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
+  ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
 
   </details>
 
 ## 最近更新内容
 
 - 2022.4.21
-  - 更新插件 [nonebot-plugin-petpet（头像表情包）](#头像表情包)
-  - 添加插件 [socialify（Github 仓库简介图生成）](#github-仓库简介图生成)
+  - **更新**插件 [nonebot-plugin-petpet（头像表情包）](#头像表情包)
+    - 添加表情 捣、捶、需要、捂脸、敲、垃圾、为什么@我、像样的亲亲、啾啾、吸、锤、紧贴
+  - **更新**插件 [nonebot-plugin-minesweeper（扫雷）](#扫雷)
+    - 将 10 分钟游戏超时改为 5 分钟操作超时
+  - **添加**插件 [socialify（Github 仓库简介图生成）](#github-仓库简介图生成)
+- 2022.4.22
+  - **添加**插件 [shuffle（打乱文本）](#打乱文本)
 
 # 功能列表
 
 ## 自己写的 nonebot2 插件
 
-> [!TIP]
+> [!NOTE]
 > 这些插件我已经开源，[仓库地址](https://github.com/lgc2333/ShigureBot)
 
 ### BlackBE 云黑记录查询
@@ -106,12 +113,20 @@ QQ：3076823485
   - 指令`socialify`（使用`socialify -h`查看指令帮助）
   - 回复一张图片可以自定义简介图显示的 logo
 - 示例
+
   - <details>
       <summary>示例图（点击展开）</summary>
 
-      ![示例](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/socialify/example.png)
+    ![示例](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/socialify/example.png)
 
     </details>
+
+### 打乱文本
+
+- 介绍
+  - 将一段文本分词后打乱
+- 指令
+  - `打乱 <句子>`
 
 ## 来自 nonebot2 商店的插件
 
