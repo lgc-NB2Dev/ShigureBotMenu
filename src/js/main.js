@@ -212,7 +212,6 @@
   window.$docsify = {
     coverpage: true,
     loadNavbar: true,
-    loadFooter: true,
     auto2top: true,
     notFoundPage: true,
     topMargin: 90,
@@ -251,12 +250,12 @@
       appId: 'SWMnSx0tSjPO8b3RPBHhX6K6-MdYXbMMI',
       appKey: '7r6slQi7BJMEr4lSlPHwE1fK',
       serverURLs: 'https://swmnsx0t.api.lncldglobal.com',
-      placeholder: '快来写个评论吧！',
+      placeholder:
+        '写评论啊！写！写啊！不写是吧……不写我就…炸死你！啊！！！他奶奶的，玩阴的是吧，那就……来吧！！',
       avatar: 'identicon',
       enableQQ: true,
-      requiredFields: ['nick'],
-      emojiCDN:
-        'https://gitee.com/lgc2333/EmojiPackage/raw/master/',
+      requiredFields: ['nick', 'mail'],
+      emojiCDN: 'https://gitee.com/lgc2333/EmojiPackage/raw/master/',
       emojiMaps: emojis,
     },
   };
