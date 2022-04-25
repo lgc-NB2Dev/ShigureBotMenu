@@ -40,6 +40,9 @@ QQ：3076823485
 
 ## 最近更新内容
 
+- 2022.4.26
+  - **添加**插件 [nonebot-plugin-withdraw（撤回）](#撤回消息)
+  - **添加**插件 [nonebot-plugin-abstract（语句抽象化）](#语句抽象化)
 - 2022.4.21
   - **更新**插件 [nonebot-plugin-petpet（头像表情包）](#头像表情包)
     - 添加表情 捣、捶、需要、捂脸、敲、垃圾、为什么@我、像样的亲亲、啾啾、吸、锤、紧贴
@@ -278,6 +281,20 @@ QQ：3076823485
   - 一个扫雷小游戏插件
 - [README（文档）](quotes/nonebot-plugin-minesweeper/README.md)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-minesweeper)
+
+### 撤回消息
+
+- 介绍
+  - 让 Bot 撤回自己不该发的消息
+- [README（文档）](quotes/nonebot-plugin-withdraw/README.md)
+- [源 Repo](https://github.com/noneplugin/nonebot-plugin-withdraw)
+
+### 语句抽象化
+
+- 介绍
+  - 让你的语句变得抽象起来（转 emoji）
+- [README（文档）](quotes/nonebot-plugin-abstract/README.md)
+- [源 Repo](https://github.com/CherryCherries/nonebot-plugin-abstract)
 
 ## 来自 GitHub 的 nonebot2 插件
 
