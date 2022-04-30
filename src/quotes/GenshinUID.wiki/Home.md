@@ -167,7 +167,7 @@ _内部实现以及缓存_
 
 <details>
     <summary>图片版（建议查看此项）</summary>
-    <img src="https://raw.githubusercontent.com/KimigaiiWuyi/GenshinUID/main/mihoyo_libs/mihoyo_bbs/index/help.png"/>
+    <img src="https://raw.githubusercontents.com/KimigaiiWuyi/GenshinUID/main/mihoyo_libs/mihoyo_bbs/index/help.png"/>
 </details>
 
 |                 触发词                  |                    效果                     |                             举例                             |                             备注                             |
