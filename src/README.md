@@ -4,6 +4,9 @@
 
 ## 前言
 
+> [!WARNING]
+> 建议先看完再去下面翻菜单，有些东西我不想再说第二遍
+
 Bot 账号：63960275（昵称：智障二号机）  
 目前 Bot 大部分功能恢复正常，感谢群友 RainNight（QQ：3472366499） 提供的小号  
 ~~Bot 近期风控中，群聊消息无法正常发送，请尝试私聊使用~~
@@ -160,7 +163,7 @@ QQ：3076823485
 ### B 站推送
 
 > [!TIP]
-> 使用这些功能时可以不用@Bot
+> 使用这些功能时需要@Bot
 
 - 介绍
   - 将 B 站的动态和直播信息推送至 QQ
@@ -296,12 +299,14 @@ QQ：3076823485
 - 介绍
   - 将两个 Emoji 合成到一起
 - 示例
+
   - <details>
     <summary>示例图（点击展开）</summary>
 
     ![示例](https://s2.loli.net/2022/01/23/EyoA1BHe9YpJZUD.png)
 
     </details>
+
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-emojimix)
 
 ### 扫雷

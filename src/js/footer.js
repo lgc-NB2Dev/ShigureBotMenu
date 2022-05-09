@@ -5,7 +5,7 @@
 直接往右上角Github提Issue或PR就行啦～  
 上次修改: {docsify-updated}
 
-感谢[Wutzu](http://berthua.top/)大佬提供的网站服务器～
+感谢[Wutzu](http://berthua.top/)大佬提供的网站服务器～  
 感谢群友 你的板栗（QQ：65130470）提供的腾讯云轻量服务器～`.trimStart();
 
   function install(hook, vm) {
