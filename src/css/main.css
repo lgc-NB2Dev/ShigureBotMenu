@@ -15,12 +15,17 @@
   background-color: var(--background) !important;
 }
 
+/* sidebar */
+.search input {
+  font-family: XiaolaiSC;
+}
+
 /* footer */
 .footer {
   text-align: right;
   font-style: italic;
-  font-size: 12px;
-  color: gray;
+  font-size: 0.9em;
+  color: var(--textColor);
 }
 
 /* comment */

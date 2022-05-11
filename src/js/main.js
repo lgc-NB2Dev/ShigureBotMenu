@@ -258,5 +258,10 @@
       emojiCDN: 'https://gitee.com/lgc2333/EmojiPackage/raw/master/',
       emojiMaps: emojis,
     },
+    count: {
+      margin: '30px',
+      color: 'var(--textColor)',
+      language: 'chinese',
+    },
   };
 })();
