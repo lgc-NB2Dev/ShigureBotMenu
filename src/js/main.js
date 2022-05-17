@@ -264,4 +264,10 @@
       language: 'chinese',
     },
   };
+
+  window.onload = () => {
+    let html = document.getElementsByTagName('html')[0];
+    html.style.setProperty('--siteFont', 'XiaolaiSC');
+    html.style.setProperty('--codeFontFamily', 'XiaolaiSC');
+  };
 })();

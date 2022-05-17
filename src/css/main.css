@@ -17,7 +17,7 @@
 
 /* sidebar */
 .search input {
-  font-family: XiaolaiSC;
+  font-family: var(--siteFont);
 }
 
 /* footer */
@@ -52,7 +52,7 @@
   color: var(--textColor) !important;
 }
 .markdown-section pre > code {
-  font-family: 'Courier New', XiaolaiSC;
+  font-family: 'Courier New', var(--siteFont);
 }
 
 /* player */
@@ -128,8 +128,6 @@
 
 /* global */
 html {
-  --siteFont: XiaolaiSC !important;
-  --codeFontFamily: XiaolaiSC !important;
   --coverBackground: url('https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/95838919_p0.png')
     center center / cover !important;
 }
