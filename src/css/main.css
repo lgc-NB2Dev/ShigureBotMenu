@@ -48,7 +48,7 @@
 .v[data-class='v'] .vbtn,
 .v[data-class='v'] p,
 .v[data-class='v'] pre code {
-  font-family: XiaolaiSC !important;
+  font-family: var(--siteFont) !important;
   color: var(--textColor) !important;
 }
 .markdown-section pre > code {
@@ -61,7 +61,7 @@
 .aplayer .aplayer-list {
   background-color: var(--background) !important;
   border-color: var(--codeBackgroundColor) !important;
-  font-family: XiaolaiSC;
+  font-family: var(--siteFont);
 }
 .aplayer .aplayer-info,
 .aplayer .aplayer-list ol li {

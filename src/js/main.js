@@ -255,7 +255,7 @@
       avatar: 'identicon',
       enableQQ: true,
       requiredFields: ['nick', 'mail'],
-      emojiCDN: 'https://gitee.com/lgc2333/EmojiPackage/raw/master/',
+      emojiCDN: 'https://raw.githubusercontents.com/getActivity/EmojiPackage/master/',
       emojiMaps: emojis,
     },
     count: {
