@@ -64,9 +64,9 @@ QQ：3076823485
 
 - 2022.5.23
   - **添加**插件：
-    - nonebot_plugin_cchess
-    - nonebot_plugin_maze
-  - **更新**插件：（没写更新内容的为Bug修复）
+    - [`nonebot_plugin_cchess`（中国象棋）](#中国象棋)
+    - [`nonebot_plugin_maze`（迷宫）](#迷宫)
+  - **更新**插件：（没写更新内容的为 Bug 修复）
     - [`nonebot_plugin_analysis_bilibili`（B 站链接解析）](#b-站链接解析) 2.3.9 -> 2.4.1
     - [`nonebot_plugin_emojimix`（Emoji 合成器）](#emoji-合成器) 0.1.4 -> 0.1.5
     - [`nonebot_plugin_heweather`（和风天气）](#和风天气) 0.5.5 -> 0.5.6
@@ -271,7 +271,7 @@ QQ：3076823485
 
 - 介绍
   - 获取最新一期的青年大学习答案
-- [README（文档）](quotes/nonebot_plugin_youthstudy/README.md)
+- [README（文档）](quotes/nonebot_plugin_youthstudy/README.md#正式使用)
 - [源 Repo](https://github.com/ayanamiblhx/nonebot_plugin_youthstudy)
 
 ### 枝网查重
@@ -368,6 +368,20 @@ QQ：3076823485
   - 让你的语句变得抽象起来（转 emoji）
 - [README（文档）](quotes/nonebot-plugin-abstract/README.md)
 - [源 Repo](https://github.com/CherryCherries/nonebot-plugin-abstract)
+
+### 中国象棋
+
+- 介绍
+  - 一个中国象棋插件，支持人机或群友对战
+- [README（文档）](quotes/nonebot-plugin-cchess/README.md#使用)
+- [源 Repo](https://github.com/noneplugin/nonebot-plugin-cchess)
+
+### 迷宫
+
+- 介绍
+  - 一个中国象棋插件，支持人机或群友对战
+- [README（文档）](quotes/nonebot_plugin_maze/README.md#开始游戏)
+- [源 Repo](https://github.com/EtherLeaF/nonebot_plugin_maze)
 
 ## 来自 GitHub 的 nonebot2 插件
 
