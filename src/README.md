@@ -62,15 +62,28 @@ QQ：3076823485
 
 ## 最近更新内容
 
+- 2022.5.23
+  - **添加**插件：
+    - nonebot_plugin_cchess
+    - nonebot_plugin_maze
+  - **更新**插件：（没写更新内容的为Bug修复）
+    - [`nonebot_plugin_analysis_bilibili`（B 站链接解析）](#b-站链接解析) 2.3.9 -> 2.4.1
+    - [`nonebot_plugin_emojimix`（Emoji 合成器）](#emoji-合成器) 0.1.4 -> 0.1.5
+    - [`nonebot_plugin_heweather`（和风天气）](#和风天气) 0.5.5 -> 0.5.6
+    - [`nonebot_plugin_minesweeper`（扫雷）](#扫雷) 0.1.3 -> 0.1.4
+      - 调整：全标记对也判断为游戏胜利
+    - [`nonebot_plugin_petpet`（头像表情包）](#头像表情包) 0.2.15 -> 0.2.17
+      - 更新：增加表情 `注意力涣散`、`图片操作`、`万能表情`、`阿尼娅喜欢`、`想什么`
+      - 调整：重制表情 `一直`、`加载中`
+      - 调整：`继续干活`表情增加关键词`打工人`
+    - [`nonebot_plugin_youthstudy`（青年大学习）](#青年大学习) 1.0.9 -> 1.1.0
+      - 更新：添加若干新功能（使用指令`大学习帮助`查看）
 - 2022.5.11
   - **添加**插件[`site_tool`（站长工具）](#站长工具)（从小栗子插件迁移）
 - 2022.5.2
   - **删除**小栗子插件`一言&毒鸡汤`（迁移到`nonebot2`）
   - **添加**插件[`hitokoto`（一言）](#一言)（从小栗子插件迁移）
   - **添加**插件[`poison_soup`（毒鸡汤）](#毒鸡汤)（从小栗子插件迁移）
-- 2022.4.26
-  - **添加**插件[`nonebot-plugin-withdraw`（撤回）](#撤回消息)
-  - **添加**插件[`nonebot-plugin-abstract`（语句抽象化）](#语句抽象化)
 
 # 功能列表
 
@@ -258,8 +271,7 @@ QQ：3076823485
 
 - 介绍
   - 获取最新一期的青年大学习答案
-- 指令
-  - `青年大学习`/`大学习`
+- [README（文档）](quotes/nonebot_plugin_youthstudy/README.md)
 - [源 Repo](https://github.com/ayanamiblhx/nonebot_plugin_youthstudy)
 
 ### 枝网查重
@@ -328,7 +340,7 @@ QQ：3076823485
 - 示例
 
   - <details>
-    <summary>示例图（点击展开）</summary>
+      <summary>示例图（点击展开）</summary>
 
     ![示例](https://s2.loli.net/2022/01/23/EyoA1BHe9YpJZUD.png)
 
