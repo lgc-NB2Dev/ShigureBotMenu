@@ -352,21 +352,21 @@ QQ：3076823485
 
 - 介绍
   - 一个扫雷小游戏插件
-- [README（文档）](quotes/nonebot-plugin-minesweeper/README.md)
+- [README（文档）](quotes/nonebot-plugin-minesweeper/README.md#使用)
 - [源 Repo](https://github.com/MeetWq/nonebot-plugin-minesweeper)
 
 ### 撤回消息
 
 - 介绍
   - 让 Bot 撤回自己不该发的消息
-- [README（文档）](quotes/nonebot-plugin-withdraw/README.md)
+- [README（文档）](quotes/nonebot-plugin-withdraw/README.md#使用)
 - [源 Repo](https://github.com/noneplugin/nonebot-plugin-withdraw)
 
 ### 语句抽象化
 
 - 介绍
   - 让你的语句变得抽象起来（转 emoji）
-- [README（文档）](quotes/nonebot-plugin-abstract/README.md)
+- [README（文档）](quotes/nonebot-plugin-abstract/README.md#使用)
 - [源 Repo](https://github.com/CherryCherries/nonebot-plugin-abstract)
 
 ### 中国象棋
