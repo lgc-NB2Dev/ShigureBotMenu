@@ -10,9 +10,12 @@
 > [!WARNING]
 > 建议先看完再去下面翻菜单，有些东西我不想再说第二遍
 
-Bot 账号：3459415580（昵称：Shigure 3rd）  
-感谢群友 jiokesishi(2744198923) 提供的 QQ 号！
+Bot 账号：3436954762（昵称：Shigure~）（QID：shigure1st）
 
+<!--
+Bot 账号：3459415580（昵称：Shigure 3rd）
+感谢群友 jiokesishi(2744198923) 提供的 QQ 号！
+-->
 <!-- 如果有意提供挂 Bot 的小号，欢迎[联系我](#联系主人)～ -->
 
 **Bot 征集戳一戳词库中！如果你有好的想法，欢迎[联系我](#联系主人)～**
@@ -47,6 +50,14 @@ QQ：3076823485
     <summary>赞助二维码（点击展开）</summary>
 
   ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
+
+  </details>
+
+- <details>
+    <summary>支付宝到店红包（点击展开）</summary>
+  扫扫吧……来扫扫吧……又不要钱(っ*´Д`)っ
+
+  ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/alipay_red_packet.jpg)
 
   </details>
 
