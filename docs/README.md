@@ -36,7 +36,7 @@ Bot 账号：3459415580（昵称：Shigure 3rd）
 所以如果想拉到群里的话，请先加[下方的 QQ 群](#联系主人)，再邀请 Bot 进群
 
 这时候 Bot 将会在群聊@你并发送如下图所示格式消息：  
-![tip](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/QQ%E5%9B%BE%E7%89%8720220803234631.png)  
+![tip](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/docs/imgs/QQ%E5%9B%BE%E7%89%8720220803234631.png)  
 这时你只需要发送 Bot 提示的消息即可自动同意请求啦~  
 图中例：`同意请求pgWcIL`
 
@@ -58,7 +58,7 @@ Telegram：[@lgc2333](https://t.me/lgc2333)
 - <details>
     <summary>赞助二维码（点击展开）</summary>
 
-  ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/sponsor.png)
+  ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/docs/imgs/sponsor.png)
 
   </details>
 
@@ -66,7 +66,7 @@ Telegram：[@lgc2333](https://t.me/lgc2333)
     <summary>支付宝到店红包（点击展开）</summary>
   扫扫吧……来扫扫吧……又不要钱(っ*´Д`)っ
 
-  ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/alipay_red_packet.jpg)
+  ![讨饭](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/docs/imgs/alipay_red_packet.jpg)
 
   </details>
 
@@ -168,7 +168,7 @@ Telegram：[@lgc2333](https://t.me/lgc2333)
   - <details>
       <summary>示例图（点击展开）</summary>
 
-    ![示例](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/socialify/example.png)
+    ![示例](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/docs/imgs/socialify/example.png)
 
     </details>
 
