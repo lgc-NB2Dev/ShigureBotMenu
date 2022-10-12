@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 MD045 -->
 
-![logo](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/src/imgs/shigure.jpg ':class=shigure-cover')
+![logo](https://raw.githubusercontents.com/lgc2333/ShigureBotMenu/master/docs/imgs/shigure.jpg ':class=shigure-cover')
 
 # ShigureBot
 
